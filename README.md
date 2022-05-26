@@ -1,0 +1,2 @@
+# latihangit
+Latihan git remote
